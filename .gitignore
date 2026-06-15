@@ -141,3 +141,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+.auth/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
